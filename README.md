@@ -1,5 +1,4 @@
 # FRT-INTERN
-![image](https://github.com/chakrabortyshovik/FRT-INTERN/assets/113231338/6b359a55-dd12-4738-a0cf-72cc67ee5322)
 Home page
 ![image](https://github.com/chakrabortyshovik/FRT-INTERN/assets/113231338/3d9ec49f-409e-45f3-9eb4-abc860b7cac4)
 
