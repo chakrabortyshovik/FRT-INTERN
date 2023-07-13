@@ -15,6 +15,7 @@ Integrated Razor Pay
 ![image](https://github.com/chakrabortyshovik/FRT-INTERN/assets/113231338/89573e6a-21c0-4a52-b36d-19ba41f83e34)
 
 Responsive for mobile
+
 ![image](https://github.com/chakrabortyshovik/FRT-INTERN/assets/113231338/246709d7-bf2f-4e9e-9d93-882fbe280b0c)
 
 
